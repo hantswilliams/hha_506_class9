@@ -10,3 +10,5 @@ var4 = {
     'firstName': 'hants',
     'lastName': 'williams'
 }
+
+variable = 123
